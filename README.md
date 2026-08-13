@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranjal124-bot/leethub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0645-set-mismatch](https://github.com/pranjal124-bot/leethub/tree/main/0645-set-mismatch/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranjal124-bot/leethub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranjal124-bot/leethub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

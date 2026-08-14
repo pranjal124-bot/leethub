@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0645-set-mismatch](https://github.com/pranjal124-bot/leethub/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0697-degree-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

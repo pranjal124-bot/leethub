@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/pranjal124-bot/leethub/tree/main/0645-set-mismatch/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |

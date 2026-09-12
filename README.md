@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/pranjal124-bot/leethub/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -111,10 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/pranjal124-bot/leethub/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/pranjal124-bot/leethub/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,8 +126,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/pranjal124-bot/leethub/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->

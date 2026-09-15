@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/pranjal124-bot/leethub/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/pranjal124-bot/leethub/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0697-degree-of-an-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/pranjal124-bot/leethub/tree/main/1089-duplicate-zeros/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/pranjal124-bot/leethub/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0697-degree-of-an-array/) | Easy |

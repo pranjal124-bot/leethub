@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/pranjal124-bot/leethub/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/pranjal124-bot/leethub/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/pranjal124-bot/leethub/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->

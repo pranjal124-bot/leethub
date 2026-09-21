@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/pranjal124-bot/leethub/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/pranjal124-bot/leethub/tree/main/0197-rising-temperature/) | Easy |
 ## Array
 | Problem Name | Difficulty |

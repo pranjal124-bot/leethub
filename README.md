@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
+| [0796-rotate-string](https://github.com/pranjal124-bot/leethub/tree/main/0796-rotate-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/pranjal124-bot/leethub/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/pranjal124-bot/leethub/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

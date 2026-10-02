@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0306-additive-number](https://github.com/pranjal124-bot/leethub/tree/main/0306-additive-number/) | Medium |
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/pranjal124-bot/leethub/tree/main/0796-rotate-string/) | Easy |
@@ -158,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/pranjal124-bot/leethub/tree/main/0463-island-perimeter/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0306-additive-number](https://github.com/pranjal124-bot/leethub/tree/main/0306-additive-number/) | Medium |
 <!---LeetCode Topics End-->

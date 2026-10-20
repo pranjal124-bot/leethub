@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranjal124-bot/leethub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0016-3sum-closest](https://github.com/pranjal124-bot/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/pranjal124-bot/leethub/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/pranjal124-bot/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/pranjal124-bot/leethub/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 | [0414-third-maximum-number](https://github.com/pranjal124-bot/leethub/tree/main/0414-third-maximum-number/) | Easy |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/pranjal124-bot/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/pranjal124-bot/leethub/tree/main/0018-4sum/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |

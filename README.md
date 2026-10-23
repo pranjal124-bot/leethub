@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/pranjal124-bot/leethub/tree/main/0306-additive-number/) | Medium |
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Tree
 | Problem Name | Difficulty |

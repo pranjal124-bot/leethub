@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/pranjal124-bot/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/pranjal124-bot/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/pranjal124-bot/leethub/tree/main/0018-4sum/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pranjal124-bot/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/pranjal124-bot/leethub/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pranjal124-bot/leethub/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pranjal124-bot/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -170,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0306-additive-number](https://github.com/pranjal124-bot/leethub/tree/main/0306-additive-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/pranjal124-bot/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->

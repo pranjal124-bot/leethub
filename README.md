@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/pranjal124-bot/leethub/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pranjal124-bot/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/pranjal124-bot/leethub/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/pranjal124-bot/leethub/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/pranjal124-bot/leethub/tree/main/0306-additive-number/) | Medium |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/pranjal124-bot/leethub/tree/main/0012-integer-to-roman/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/pranjal124-bot/leethub/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranjal124-bot/leethub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal124-bot/leethub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |

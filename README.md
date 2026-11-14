@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/pranjal124-bot/leethub/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/pranjal124-bot/leethub/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/pranjal124-bot/leethub/tree/main/0197-rising-temperature/) | Easy |
+| [0610-triangle-judgement](https://github.com/pranjal124-bot/leethub/tree/main/0610-triangle-judgement/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

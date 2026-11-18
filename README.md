@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/pranjal124-bot/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/pranjal124-bot/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 | [1089-duplicate-zeros](https://github.com/pranjal124-bot/leethub/tree/main/1089-duplicate-zeros/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/pranjal124-bot/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/pranjal124-bot/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0844-backspace-string-compare](https://github.com/pranjal124-bot/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/pranjal124-bot/leethub/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranjal124-bot/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/pranjal124-bot/leethub/tree/main/0796-rotate-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/pranjal124-bot/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pranjal124-bot/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/pranjal124-bot/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
